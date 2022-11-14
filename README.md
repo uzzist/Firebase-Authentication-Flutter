@@ -1,16 +1,15 @@
-# firebase_authentication
+Firebase Authentication App made using Flutter, Dart and Firebase.
 
-A new Flutter project.
+This App has the following features:
+- Sign Up with email and password.
+- Login with email and password.
+- Login with phone.
+- Login with Gmail.
+- Forgot Password.
 
-## Getting Started
+Screenshots:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022 11 14_11 57 46 934](https://user-images.githubusercontent.com/82755609/201597337-c2df604f-eeda-4c56-8831-a6137fb74f9b.png)
+![Screenshot_2022 11 14_11 57 54 948](https://user-images.githubusercontent.com/82755609/201597365-b6c5f23e-3053-4674-9069-b53ff940b446.png)
+![Screenshot_2022 11 14_11 58 02 815](https://user-images.githubusercontent.com/82755609/201597384-60e17dae-7afc-468f-8d00-a888a325935a.png)
+![Screenshot_2022 11 14_11 58 12 282](https://user-images.githubusercontent.com/82755609/201597398-d7d058e5-4fdc-4355-9ea1-fe0adfe9b1a3.png)
